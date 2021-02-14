@@ -16,7 +16,8 @@ npm start
 <img src='preview/2.png' width ='150px'/>
 <img src='preview/3.png' width ='150px'/>
 <img src='preview/4.png' width ='150px'/>
-<img src='preview/5.png' width ='150px'/>
+<img src='preview/5.png' width ='150px' display='inline-block'/>
+
 ### You Can Change The Colors Easily By modifying "js/setup.js" File Without Going inside The code
 
 
