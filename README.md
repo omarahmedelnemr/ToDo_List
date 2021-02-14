@@ -3,14 +3,19 @@ it's a Simple ToDo List, Easy To Use Yet Helpful.
 ![](preview/vid.gif)
 
 ## Run It
-run this ommand in the html file directory
+Run This Command in The HTML-file Directory
 ```bash
 npm start
 ```
 
 # Features
 
-## Multipule Themes
-![](preview/1.png)
-![](preview/2.png)
-![](preview/3.png)
+## Multiple Themes
+![](preview/themes.png)
+### You Can Change tHE Colors Eeasly By modifying js/setup.js File Without Going inside The code
+
+## Timer 
+## Smooth Design
+
+
+Enjoy
