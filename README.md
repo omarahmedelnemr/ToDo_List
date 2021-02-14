@@ -13,8 +13,8 @@ npm start
 ## Smooth Design
 ## Multiple Themes
 ![](preview/themes.png)
-<img src='preview/themes.png' width ='10px' height='10px'/>
-### You Can Change tHE Colors Eeasly By modifying js/setup.js File Without Going inside The code
+<img src='preview/themes.png' width ='100px' height='100px' style='text-align:center;margin:auto'/>
+### You Can Change The Colors Easily By modifying "js/setup.js" File Without Going inside The code
 
 
 
