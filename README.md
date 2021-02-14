@@ -1,6 +1,9 @@
 # ToDo_List
 it's a Simple ToDo List, Easy To Use Yet Helpful.
+
 ![](preview/vid.gif)
+
+It's Built Using Electron Framework And Web Techniques
 
 ## Run It
 Run This Command in The HTML-file Directory
