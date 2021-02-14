@@ -9,13 +9,14 @@ npm start
 ```
 
 # Features
-
-## Multiple Themes
-![](preview/themes.png)
-### You Can Change tHE Colors Eeasly By modifying js/setup.js File Without Going inside The code
-
 ## Timer 
 ## Smooth Design
+## Multiple Themes
+![](preview/themes.png)
+<img src='preview/themes.png' width ='10px' height='10px'/>
+### You Can Change tHE Colors Eeasly By modifying js/setup.js File Without Going inside The code
+
+
 
 
 Enjoy
