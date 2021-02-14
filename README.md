@@ -11,4 +11,4 @@ npm start
 # Featurs
 
 ## Multipule Themes
-![](preview/1.png)
+![](preview/vid.gif)
