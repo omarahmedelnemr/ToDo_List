@@ -2,4 +2,13 @@
 it's a Simple ToDo List, Easy To Use Yet Helpful.
 
 
-# Multipule Themes
+## Run It
+run this ommand in the html file directory
+```bash
+npm start
+```
+
+# Featurs
+
+## Multipule Themes
+![](preview/1.png)
