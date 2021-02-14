@@ -1,6 +1,6 @@
 # ToDo_List
 it's a Simple ToDo List, Easy To Use Yet Helpful.
-
+![](preview/vid.gif)
 
 ## Run It
 run this ommand in the html file directory
@@ -8,7 +8,9 @@ run this ommand in the html file directory
 npm start
 ```
 
-# Featurs
+# Features
 
 ## Multipule Themes
-![](preview/vid.gif)
+![](preview/1.png)
+![](preview/2.png)
+![](preview/3.png)
