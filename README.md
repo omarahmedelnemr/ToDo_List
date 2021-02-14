@@ -12,11 +12,12 @@ npm start
 ## Timer 
 ## Smooth Design
 ## Multiple Themes
-<img src='preview/1.png' width ='150px'/>
-<img src='preview/2.png' width ='150px'/>
-<img src='preview/3.png' width ='150px'/>
-<img src='preview/4.png' width ='150px'/>
-<img src='preview/5.png' width ='150px' display='inline-block'/>
+
+![](preview/1.png)
+![](preview/2.png)
+![](preview/3.png)
+![](preview/4.png)
+![](preview/5.png)
 
 ### You Can Change The Colors Easily By modifying "js/setup.js" File Without Going inside The code
 
