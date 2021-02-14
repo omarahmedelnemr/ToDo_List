@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>ToDo List</title>
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body style="background: white;">
+
+
+<div id = 'work'>
+    <div id="not_finished">
+
+    </div>
+    <div id="finished">
+
+    </div>
+    <p id="not_yet">No Tasks Yet</p>
+    <div id="addList">
+        <input type="text" name="title" id="title_input">
+        <button id="add">Add</button>
+    </div>
+</div>
+<div id='footer'>
+    <button id="plus">+</button>
+
+    <button id='setting'>  <i class="material-icons">settings</i></button>
+    <div id="settingList">
+        <button id="th1"></button>
+        <button id="th2"></button>
+        <button id="th3"></button>
+        <button id="th4"></button>
+        <button id="th5"></button>
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+window.$ = window.jQuery = require('./js/jquery-3.2.1.min.js')
+</script>
+<!--<script type="text/javascript" src = 'js/jquery-3.2.1.min.js'></script>-->
+<script type="text/javascript" src = 'js/setup.js'></script>
+<script type="text/javascript" src = 'js/data.js'></script>
+<script type="text/javascript" src = 'js/tasks.js'></script>
+<script type="text/javascript" src = 'js/timer.js'></script>
+<script type="text/javascript" src = 'js/add.js'></script>
+<script type="text/javascript" src = 'js/settings.js'></script>
+</body>
+</html>

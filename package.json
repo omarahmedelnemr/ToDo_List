@@ -1,0 +1,10 @@
+{
+    "name": "my-electron-app",
+    "version": "^11.2.1",
+    "author": "your name",
+    "description": "My Electron app",
+    "main": "js/main.js",
+    "scripts": {
+        "start": "electron ."
+    }
+}
